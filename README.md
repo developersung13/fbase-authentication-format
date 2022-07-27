@@ -15,13 +15,13 @@
 
 **5. Terminal에서 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
 
-##
+---
 
 **6. 프로젝트 폴더 내부 src폴더 안에서 App.js 및 index.js 파일을 제외한 잔여 파일 전부 제거**
 
 ![image](https://user-images.githubusercontent.com/56868605/181263383-218b7315-2393-416a-97ed-9e03a1824e6a.png)
 
-##
+---
 
 ## ⚙️ 설정
 
