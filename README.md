@@ -33,3 +33,8 @@
 
 ![스크린샷 2022-07-27 오후 11 08 26](https://user-images.githubusercontent.com/56868605/181268517-8fc925b5-d82e-464d-b727-5604fece3f8b.png)
 
+**9. 프로젝트 이름을 지정한 후 다음 단계에서 프로젝트 만들기**
+
+![스크린샷 2022-07-27 오후 11 13 47](https://user-images.githubusercontent.com/56868605/181269722-23d46852-2adb-4a4e-9678-7aad4baab4ca.png)
+
+**10. 
