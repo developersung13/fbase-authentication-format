@@ -15,6 +15,6 @@
 
 ---
 
-**5. 프로젝트 폴더 내부 src폴더 안에서 App.js 및 index.js 파일을 제외한 나머지 파일 전부 제거
+**5. 프로젝트 폴더 내부 src폴더 안에서 App.js 및 index.js 파일을 제외한 나머지 파일 전부 제거**
 
 ![image](https://user-images.githubusercontent.com/56868605/181263383-218b7315-2393-416a-97ed-9e03a1824e6a.png)
