@@ -13,7 +13,7 @@
 구성할 수 있으며 (e.g. **`my-app`** 또는 **`my_app`**), 설치 완료까지
 시간이 어느 정도 소요됩니다.
 
-**5. 터미널에 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
+**5. Terminal에서 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
 
 ---
 
