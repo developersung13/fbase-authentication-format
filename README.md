@@ -43,3 +43,16 @@
 **10. '이 프로젝트에서 Google 애널리틱스 사용 설정' 끈 후 '프로젝트 만들기' 클릭
 
 ![스크린샷 2022-07-27 오후 11 20 27](https://user-images.githubusercontent.com/56868605/181271702-429d6fe2-4f8d-4e07-8fbe-d4f0b81a3a26.png)
+
+**11. 새 프로젝트가 준비된 후 '계속' 클릭**
+
+![스크린샷 2022-07-27 오후 11 24 00](https://user-images.githubusercontent.com/56868605/181273874-ecab0cca-b84d-489c-a9b4-80f6e1d7f296.png)
+
+**12. 웹 클릭**
+
+![스크린샷 2022-07-27 오후 11 24 57](https://user-images.githubusercontent.com/56868605/181274102-54715e14-6658-4613-a25e-4ce328c343a2.png)
+
+**13. 앱 닉네임 작성 후 '앱 등록' 클릭
+
+![스크린샷 2022-07-27 오후 11 26 10](https://user-images.githubusercontent.com/56868605/181274320-4e293b3b-7bec-4a64-884a-bdcca435983a.png)
+
