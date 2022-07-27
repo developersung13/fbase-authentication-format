@@ -48,7 +48,7 @@
 
 ![스크린샷 2022-07-27 오후 11 24 00](https://user-images.githubusercontent.com/56868605/181273874-ecab0cca-b84d-489c-a9b4-80f6e1d7f296.png)
 
-**12. 웹 클릭**
+**12. `웹` 클릭**
 
 ![스크린샷 2022-07-27 오후 11 24 57](https://user-images.githubusercontent.com/56868605/181274102-54715e14-6658-4613-a25e-4ce328c343a2.png)
 
