@@ -27,14 +27,19 @@
 
 **7. https://firebase.google.com/ 주소로 이동하여 구글 계정으로 로그인 후 '시작' 버튼 클릭**
 
-![스크린샷 2022-07-27 오후 11 07 33](https://user-images.githubusercontent.com/56868605/181268128-4b7b2c77-c981-4139-9f49-5e30f4c47c96.png)
+![스크린샷 2022-07-27 오후 11 17 23](https://user-images.githubusercontent.com/56868605/181271373-330a80f1-723e-4dbb-bb5f-23a2912ebf00.png)
+
 
 **8. '프로젝트 추가' 클릭**
 
-![스크린샷 2022-07-27 오후 11 08 26](https://user-images.githubusercontent.com/56868605/181268517-8fc925b5-d82e-464d-b727-5604fece3f8b.png)
+![스크린샷 2022-07-27 오후 11 18 39](https://user-images.githubusercontent.com/56868605/181271417-6dc6d492-aaf5-4022-829a-d5c6d3288606.png)
 
-**9. 프로젝트 이름을 지정한 후 다음 단계에서 프로젝트 만들기**
 
-![스크린샷 2022-07-27 오후 11 13 47](https://user-images.githubusercontent.com/56868605/181269722-23d46852-2adb-4a4e-9678-7aad4baab4ca.png)
+**9. 프로젝트 이름 지정 후 다음
 
-**10. 
+![스크린샷 2022-07-27 오후 11 19 05](https://user-images.githubusercontent.com/56868605/181271509-1c333b12-c78e-4f88-a348-b54b806bb001.png)
+
+
+**10. '이 프로젝트에서 Google 애널리틱스 사용 설정' 끈 후 '프로젝트 만들기' 클릭
+
+![스크린샷 2022-07-27 오후 11 20 27](https://user-images.githubusercontent.com/56868605/181271702-429d6fe2-4f8d-4e07-8fbe-d4f0b81a3a26.png)
