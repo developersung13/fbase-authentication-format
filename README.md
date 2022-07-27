@@ -1,7 +1,6 @@
 ## 💾 설치
 
 **1. 하단의 링크에 접속하여 <span style="color: white; background-color: #026e00">&nbsp;Node.js&nbsp;</span> 다운로드(LTS 버전)**
-
 **https://nodejs.org/ko/**
 
 **2. 설치 완료 후 Terminal에서 `npm -v` 명령어를 입력하여 <span style="color: black; background-color: yellow">설치 완료</span> 및 버전 확인**
