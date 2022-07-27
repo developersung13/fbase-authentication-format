@@ -14,3 +14,7 @@
 시간이 어느 정도 소요됩니다.
 
 ---
+
+**5. 프로젝트 폴더 내부 src폴더 안에 존재하는 App.css, App.test.js, Index.css, logo.svg, reportWebVitals.js, setupTests.js 파일 제거
+
+![image](https://user-images.githubusercontent.com/56868605/181263383-218b7315-2393-416a-97ed-9e03a1824e6a.png)
