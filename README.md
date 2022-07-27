@@ -27,4 +27,4 @@
 
 **7. https://firebase.google.com/ 주소로 이동하여 구글 계정으로 로그인 후 '시작' 버튼 클릭**
 
-![스크린샷 2022-07-27 오후 10 59 39](https://user-images.githubusercontent.com/56868605/181266338-3e2f0617-7190-4f19-b53f-693540995d20.png)
+![스크린샷 2022-07-27 오후 11 07 33](https://user-images.githubusercontent.com/56868605/181268128-4b7b2c77-c981-4139-9f49-5e30f4c47c96.png)
