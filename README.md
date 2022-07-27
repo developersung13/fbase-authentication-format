@@ -20,3 +20,9 @@
 ![image](https://user-images.githubusercontent.com/56868605/181263383-218b7315-2393-416a-97ed-9e03a1824e6a.png)
 
 **6. 터미널에 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
+
+---
+
+**7. https://firebase.google.com/ 주소로 이동하여 구글 계정으로 로그인 후 '시작' 버튼 클릭**
+
+![스크린샷 2022-07-27 오후 10 59 39](https://user-images.githubusercontent.com/56868605/181266338-3e2f0617-7190-4f19-b53f-693540995d20.png)
