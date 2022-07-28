@@ -1,5 +1,3 @@
-# <<<<<<< HEAD
-
 ## 💾 설치
 
 **1. 우측 링크에 접속하여 <span style="color: white; background-color: #026e00">&nbsp;Node.js&nbsp;</span> 다운로드(LTS 버전)**
