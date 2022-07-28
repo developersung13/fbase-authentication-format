@@ -86,7 +86,7 @@
 
 **?. `Google` 의 제공업체 구성은 `사용 설정` 활성화 후 `프로젝트 지원 이메일` 을 선택한 후 `저장` 클릭**
 
-![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408999-8fecf3ca-498f-4d89-acf9-2a1104f62659.png)
+![스크린샷 2022-07-27 오후 11 44 21](https://user-images.githubusercontent.com/56868605/181409286-158bab62-d306-4e47-b116-93cd9c26a521.png)
 
 **?. `Github` 는 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` → `Developer settings` → `OAuth Apps`**
 
@@ -102,3 +102,9 @@
 **?. Firebase의 Github 제공업체 구성 창에서 `사용 설정` 활성화 후 하단의 URL 복사**
 
 ![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408658-71eb62c0-95e9-40a4-bf77-2be4d9b2b683.png)
+
+**?. 다시 Github의 OAuth 추가 페이지로 돌아와방금 Firebase에서 복사했던 URL을 다음 사진과 같이 입력 폼에 알맞은 주소 형태로 붙여넣기
+> e.g. Homepage URL : https://fbase-authentication-format.firebaseapp.com
+> e.g. Authorization callback URL : https://fbase-authentication-format.firebaseapp.com/__/auth/handler
+
+![스크린샷 2022-07-27 오후 11 48 43](https://user-images.githubusercontent.com/56868605/181409318-d816b8a7-46d5-4896-a969-02d79baffca4.png)
