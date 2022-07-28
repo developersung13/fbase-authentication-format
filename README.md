@@ -130,5 +130,3 @@
 **?. 프로젝트 폴더 내부 `.gitignore` 파일 하단에 `.env` 추가**
 
 ![스크린샷 2022-07-28 오후 12 16 39](https://user-images.githubusercontent.com/56868605/181413091-655ca8f6-4647-4306-87e7-342eb42ffca1.png)
-
-> > > > > > > a5328f82a18209f9823fbfe05b20e899ca08162a
