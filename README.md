@@ -113,3 +113,14 @@
 **?. `Generate a new client secret` 클릭 후 생성된 Client ID와 Client secrets 값을 복사한 후 Firebase 입력 폼에 각각 붙여 넣은 후 `저장`**
 
 ![스크린샷 2022-07-27 오후 11 49 44](https://user-images.githubusercontent.com/56868605/181410177-af8ba182-ddcb-484c-b4e6-e8547fd17676.png)
+
+**?. 밑 사진과 같이 세 가지(이메일/비밀번호, 구글, 깃허브) 로그인 제공업체 추가가 정상적으로 완료된 것을 확인**
+
+![스크린샷 2022-07-27 오후 11 50 35](https://user-images.githubusercontent.com/56868605/181410550-518b3cc7-6f08-4476-a106-d8ae401dd3dd.png)
+
+---
+
+**?. 다시 에디터로 돌아와서 프로젝트 폴더 바로 하위에 `.env` 파일을 생성**(반드시 프로젝트 폴더 바로 하위에 생성하셔야 합니다)
+
+![스크린샷 2022-07-28 오전 9 16 24](https://user-images.githubusercontent.com/56868605/181410736-dee6305c-fbb8-4259-bb99-8cbaa89b7d5d.png)
+
