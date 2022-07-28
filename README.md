@@ -145,7 +145,10 @@
 scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm run build"`** 추가<br />
 (deploy명령어 실행 전 predeploy 명령어를 실행하여 build과정을 거친 후 deploy 명령어를 실행하는 원리)
 
-터미널에 `npm run deploy` 명령어 입력
+터미널에 **`npm run deploy`** 명령어 입력
 (-d build 옵션을 추가한 이유는 predeploy명령어로 인해 build라는 폴더가 생성되는데 이 build폴더를 토대로 deploy하라는 의미)
 
 ![스크린샷 2022-07-28 오후 12 35 29](https://user-images.githubusercontent.com/56868605/181415239-e9f765b7-291c-46b5-828a-fbbfbe6e143d.png)
+
+---
+
