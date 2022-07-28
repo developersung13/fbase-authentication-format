@@ -89,9 +89,11 @@
 ![스크린샷 2022-07-27 오후 11 44 21](https://user-images.githubusercontent.com/56868605/181395990-a5e601d9-d627-4322-84f6-34b55d3becd2.png)
 
 
-**?. `Github` 는 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` → `Developer settings`**
+**?. `Github` 는 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` → `Developer settings` → `OAuth Apps`**
 
 ![스크린샷 2022-07-27 오후 11 45 30](https://user-images.githubusercontent.com/56868605/181396552-275079d1-ec50-4710-998d-94c75ad65d03.png)
 ![스크린샷 2022-07-27 오후 11 46 08](https://user-images.githubusercontent.com/56868605/181407999-6d3ff3be-62a3-40c5-a099-fd7f9b12c7e3.png)
+![스크린샷 2022-07-27 오후 11 46 41](https://user-images.githubusercontent.com/56868605/181408492-c906f9aa-ed4e-4d13-ba17-acea606a9cc4.png)
+
 
 **?. **
