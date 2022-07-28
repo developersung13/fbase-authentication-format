@@ -70,6 +70,11 @@
 
 ![스크린샷 2022-07-27 오후 11 29 18](https://user-images.githubusercontent.com/56868605/181275478-c8f4e5fe-2c6c-4fba-8f06-c31596780533.png)
 
+**?. `Authentication` 클릭 후 `시작하기` 클릭**
+
+![스크린샷 2022-07-27 오후 11 40 58](https://user-images.githubusercontent.com/56868605/181396742-3cfccbea-799e-4cf9-8eb2-320af9a151a7.png)
+![스크린샷 2022-07-27 오후 11 41 20](https://user-images.githubusercontent.com/56868605/181396800-254c92ff-2259-4a0d-8c4e-e8bad9422bfc.png)
+
 **?. 다음의 세 가지(이메일/비밀번호, Google, Github) 로그인 제공업체 설정**
 
 ![스크린샷 2022-07-27 오후 11 41 48](https://user-images.githubusercontent.com/56868605/181395700-03ace689-9a3f-448b-9f6b-d67f97d112da.png)
@@ -84,6 +89,6 @@
 ![스크린샷 2022-07-27 오후 11 44 21](https://user-images.githubusercontent.com/56868605/181395990-a5e601d9-d627-4322-84f6-34b55d3becd2.png)
 
 
-**?. `Github` 는 ** 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` 
+**?. `Github` 는 ** 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` 클릭**
 
 ![스크린샷 2022-07-27 오후 11 45 30](https://user-images.githubusercontent.com/56868605/181396552-275079d1-ec50-4710-998d-94c75ad65d03.png)
