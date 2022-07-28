@@ -84,10 +84,9 @@
 ![스크린샷 2022-07-27 오후 11 43 20](https://user-images.githubusercontent.com/56868605/181395865-0362377d-03f0-44df-a4d0-85b331a7856f.png)
 
 
-**?. `Google` 은 `프로젝트 지원 이메일` 을 선택한 후 `저장` 클릭**
+**?. `Google` 의 제공업체 구성은 `사용 설정` 활성화 후 `프로젝트 지원 이메일` 을 선택한 후 `저장` 클릭**
 
-![스크린샷 2022-07-27 오후 11 44 21](https://user-images.githubusercontent.com/56868605/181395990-a5e601d9-d627-4322-84f6-34b55d3becd2.png)
-
+![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408999-8fecf3ca-498f-4d89-acf9-2a1104f62659.png)
 
 **?. `Github` 는 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` → `Developer settings` → `OAuth Apps`**
 
@@ -100,6 +99,6 @@
 
 ![스크린샷 2022-07-27 오후 11 47 13](https://user-images.githubusercontent.com/56868605/181408554-a467101a-ebcd-4eb1-b42a-208ef7464b2f.png)
 
-**?. Firebase의 Github 제공업체 구성 창에서 **
+**?. Firebase의 Github 제공업체 구성 창에서 `사용 설정` 활성화 후 하단의 URL 복사**
 
 ![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408658-71eb62c0-95e9-40a4-bf77-2be4d9b2b683.png)
