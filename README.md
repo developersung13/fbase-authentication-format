@@ -23,7 +23,7 @@
 **`npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons`**
 
 
-**?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어를  설치**
+**?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어를 입력하여 설치**
 
 ---
 
