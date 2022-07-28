@@ -96,4 +96,10 @@
 ![스크린샷 2022-07-27 오후 11 46 41](https://user-images.githubusercontent.com/56868605/181408492-c906f9aa-ed4e-4d13-ba17-acea606a9cc4.png)
 
 
-**?. **
+**?. `New OAuth App` 클릭**
+
+![스크린샷 2022-07-27 오후 11 47 13](https://user-images.githubusercontent.com/56868605/181408554-a467101a-ebcd-4eb1-b42a-208ef7464b2f.png)
+
+**?. Firebase의 Github 제공업체 구성 창에서 **
+
+![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408658-71eb62c0-95e9-40a4-bf77-2be4d9b2b683.png)
