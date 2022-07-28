@@ -103,9 +103,13 @@
 
 ![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408658-71eb62c0-95e9-40a4-bf77-2be4d9b2b683.png)
 
-**?. 다시 Github의 OAuth 추가 페이지로 돌아와 방금 전 Firebase에서 복사하였던 URL을 다음 사진과 같이 입력 폼에 알맞은 주소 형태로 붙여 넣은 후 `Register Application` 클릭**
+**?. 다시 Github의 OAuth 추가 페이지로 돌아와 방금 전 Firebase에서 복사하였던 URL을 다음 사진과 같이 입력 폼에 알맞은 주소 형태로 붙여 넣은 후 `Register application` 클릭**
 > e.g. Homepage URL : https://fbase-authentication-format.firebaseapp.com
 
 > e.g. Authorization callback URL : https://fbase-authentication-format.firebaseapp.com/__/auth/handler
 
 ![스크린샷 2022-07-27 오후 11 48 43](https://user-images.githubusercontent.com/56868605/181409318-d816b8a7-46d5-4896-a969-02d79baffca4.png)
+
+**?. `Generate a new client secret` 클릭 후 생성된 Client ID & Client secrets 값을 복사한 후 Firebase 입력 폼에 각각 붙여 넣은 후 `저장`**
+
+![스크린샷 2022-07-27 오후 11 49 44](https://user-images.githubusercontent.com/56868605/181410177-af8ba182-ddcb-484c-b4e6-e8547fd17676.png)
