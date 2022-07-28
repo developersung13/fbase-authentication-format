@@ -19,7 +19,7 @@
 
 **?. Terminal에서 `npm i @fortawesome/fontawesome-svg-core` 명령어를 입력하여 설치**
 
-**?. Terminal에서 및 명령어 입력하여 설치 설치
+**?. Terminal에서 및 명령어 입력하여 설치 설치**
 `npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons`
 
 
