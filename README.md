@@ -103,7 +103,7 @@
 
 ![스크린샷 2022-07-27 오후 11 48 00](https://user-images.githubusercontent.com/56868605/181408658-71eb62c0-95e9-40a4-bf77-2be4d9b2b683.png)
 
-**?. 다시 Github의 OAuth 추가 페이지로 돌아와 방금 전 Firebase에서 복사하였던 URL을 다음 사진과 같이 입력 폼에 알맞은 주소 형태로 붙여넣기**
+**?. 다시 Github의 OAuth 추가 페이지로 돌아와 방금 전 Firebase에서 복사하였던 URL을 다음 사진과 같이 입력 폼에 알맞은 주소 형태로 붙여 넣은 후 `Register Application` 클릭**
 > e.g. Homepage URL : https://fbase-authentication-format.firebaseapp.com
 
 > e.g. Authorization callback URL : https://fbase-authentication-format.firebaseapp.com/__/auth/handler
