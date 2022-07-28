@@ -14,7 +14,6 @@
 시간이 어느 정도 소요됩니다.
 
 &nbsp;
-
 **5. Terminal에서 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
 
 **?. Terminal에서 `npm i @fortawesome/fontawesome-svg-core` 명령어를 입력하여 설치**
