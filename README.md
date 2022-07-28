@@ -50,7 +50,7 @@
 ![스크린샷 2022-07-27 오후 11 19 05](https://user-images.githubusercontent.com/56868605/181271509-1c333b12-c78e-4f88-a348-b54b806bb001.png)
 
 
-**10. `이 프로젝트에서 Google 애널리틱스 사용 설정`을 끈 후 `프로젝트 만들기` 클릭**
+**10. `이 프로젝트에서 Google 애널리틱스 사용 설정` 을 끈 후 `프로젝트 만들기` 클릭**
 
 ![스크린샷 2022-07-27 오후 11 20 27](https://user-images.githubusercontent.com/56868605/181271702-429d6fe2-4f8d-4e07-8fbe-d4f0b81a3a26.png)
 
@@ -70,4 +70,20 @@
 
 ![스크린샷 2022-07-27 오후 11 29 18](https://user-images.githubusercontent.com/56868605/181275478-c8f4e5fe-2c6c-4fba-8f06-c31596780533.png)
 
----
+**?. 다음의 세 가지(이메일/비밀번호, Google, Github) 로그인 제공업체 설정**
+
+![스크린샷 2022-07-27 오후 11 41 48](https://user-images.githubusercontent.com/56868605/181395700-03ace689-9a3f-448b-9f6b-d67f97d112da.png)
+
+**?. `이메일/비밀번호` 는 다음과 같이 설정한 후 `저장` 클릭**
+
+![스크린샷 2022-07-27 오후 11 43 20](https://user-images.githubusercontent.com/56868605/181395865-0362377d-03f0-44df-a4d0-85b331a7856f.png)
+
+
+**?. `Google` 은 `프로젝트 지원 이메일` 을 선택한 후 `저장` 클릭**
+
+![스크린샷 2022-07-27 오후 11 44 21](https://user-images.githubusercontent.com/56868605/181395990-a5e601d9-d627-4322-84f6-34b55d3becd2.png)
+
+
+**?. `Github` 는 ** 별도의 ID값을 생성해야 하기 때문에 Github 홈페이지에서 로그인 후 `Settings` 
+
+![스크린샷 2022-07-27 오후 11 45 30](https://user-images.githubusercontent.com/56868605/181396552-275079d1-ec50-4710-998d-94c75ad65d03.png)
