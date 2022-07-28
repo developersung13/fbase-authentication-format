@@ -24,6 +24,8 @@
 
 **?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어를 입력하여 설치**
 
+**?. `npm i gh-pages` 명령어를 입력하여 설치**
+
 ---
 
 **6. 프로젝트 폴더 내부 src폴더 안에서 App.js 및 index.js 파일을 제외한 잔여 파일 전부 제거**
@@ -136,3 +138,4 @@
 ![스크린샷 2022-07-28 오후 12 30 15](https://user-images.githubusercontent.com/56868605/181414331-a09c88c6-3a5b-45de-975d-e1fe9d82da95.png)
 
 ---
+
