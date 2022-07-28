@@ -139,11 +139,17 @@
 
 ---
 
-package.json파일 하단에 밑 문장 추가
-__```"homepage": "https://yourname.github.io/project_name/"```__
-&nbsp;
-scripts 부분에 __```"deploy": "gh-pages -d build"```__ 및 __```"predeploy": "npm run build"```__ 추가
+**?. package.json파일 하단에 밑 문장 추가
+__`"homepage": "https://yourname.github.io/project_name/"`__
+
+scripts 부분에 __`"deploy": "gh-pages -d build"`__ 및 __`"predeploy": "npm run build"`__ 추가
 (deploy명령어 실행 전 predeploy 명령어를 실행하여 build과정을 거친 후 deploy 명령어를 실행하는 원리)
-&nbsp;
+
 터미널에 npm run deploy 명령어 입력
-(-d build 옵션을 추가한 이유는 predeploy명령어로 인해 build라는 폴더가 생성되는데 이 build폴더를 토대로 deploy하라는 의미)
+(-d buil![스크린샷 2022-07-28 오후 12 35 29](https://user-images.githubusercontent.com/56868605/181414979-75be0779-0e37-4063-a6bc-de50961a79df.png)
+d 옵션을 추가한 이유는 predeploy명령어로 인해 build라는 폴더가 생성되는데 이 build폴더를 토대로 deploy하라는 의미)
+
+![Uploading 스크린샷 2022-07-28 오후 12.35.29.png…]()
+
+
+
