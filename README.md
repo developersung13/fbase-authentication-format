@@ -15,12 +15,13 @@
 
 **5. Terminal에서 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
 
-**?. Terminal에서 `npm i @fortawesome/fontawesome-svg-core` 명령어 입력 후 설치**
+**?. Terminal에서 `npm i @fortawesome/fontawesome-svg-core` 명령어를 입력하여 설치**
 
-**?. Terminal에서 `npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons`
-명령어 입력 후 설치**
+**?. Terminal에서 및 명령어 입력하여 설치 설치
+`npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons`
 
-**?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어 입력 후 설치**
+
+**?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어를  설치**
 
 ---
 
