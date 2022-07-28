@@ -15,6 +15,13 @@
 
 **5. Terminal에서 `npm i firebase@9.6.1` 및 `npm i react-router-dom@5.3.0` 명령어 입력**
 
+**?. Terminal에서 `npm i @fortawesome/fontawesome-svg-core` 명령어 입력 후 설치**
+
+**?. Terminal에서 `npm i @fortawesome/free-solid-svg-icons @fortawesome/free-regular-svg-icons @fortawesome/free-brands-svg-icons`
+명령어 입력 후 설치**
+
+**?. Terminal에서 `npm i @fortawesome/react-fontawesome` 명령어 입력 후 설치**
+
 ---
 
 **6. 프로젝트 폴더 내부 src폴더 안에서 App.js 및 index.js 파일을 제외한 잔여 파일 전부 제거**
