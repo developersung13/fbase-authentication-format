@@ -132,3 +132,7 @@
 **?. src 폴더 하단에 `fbase.js` 파일을 생성한 후 fbase-authentication-format 저장소에 있는 `fbase.js` 코드를 복사한 후 붙여넣기**
 
 ![스크린샷 2022-07-28 오전 9 18 44](https://user-images.githubusercontent.com/56868605/181412522-8652cad7-7fb0-4364-9ae5-af8203b97720.png)
+
+**?. 프로젝트 폴더 내부 `.gitignore` 파일 하단에 `.env` 추가**
+
+![스크린샷 2022-07-28 오후 12 16 39](https://user-images.githubusercontent.com/56868605/181413091-655ca8f6-4647-4306-87e7-342eb42ffca1.png)
