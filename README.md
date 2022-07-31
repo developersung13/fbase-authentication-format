@@ -152,3 +152,4 @@ scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm r
 
 ---
 
+**?. Google Cloud Secuirty 설정**
