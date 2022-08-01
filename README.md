@@ -152,4 +152,23 @@ scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm r
 
 ---
 
+**?. Cloud Firestore 클릭 후 `데이터베이스 만들기` 클릭**
+
+![스크린샷 2022-08-01 오후 11 22 49](https://user-images.githubusercontent.com/56868605/182175315-815ced1e-0e20-4075-84ad-d7d308153167.png)
+![스크린샷 2022-08-01 오후 11 26 07](https://user-images.githubusercontent.com/56868605/182175431-9e95095d-7f42-43e9-9a34-536e0c04f076.png)
+
+**?. Cloud Firestore 위치를 `asia-northeast3` 로 선택 후 `사용 설정` 클릭**
+
+![스크린샷 2022-08-01 오후 11 34 42](https://user-images.githubusercontent.com/56868605/182175469-b9026f15-d2d0-4a4f-b066-6ef22b07df8d.png)
+
+**?. `규칙` 메뉴에 들어가 밑 사진과 같이 수정**
+
+![스크린샷 2022-08-01 오후 11 43 40](https://user-images.githubusercontent.com/56868605/182175848-58689b42-3c91-4170-b1ef-af8197debdab.png
+
+**?. Authentication의 `Settings` 메뉴에 들어가 `도메인 추가` 클릭 후 밑 사진과 같이 `Github이름.github.io` 입력 후 `추가` 클릭**
+
+![스크린샷 2022-08-01 오후 11 17 22](https://user-images.githubusercontent.com/56868605/182176321-5fdb8163-5c3f-4fc3-bee5-217705ecd7b8.png)
+
+---
+
 **?. Google Cloud Secuirty 설정**
