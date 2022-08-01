@@ -163,15 +163,6 @@ scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm r
 
 **?. `규칙` 메뉴에 들어가 밑 사진과 같이 수정**
 
-`rules_version = '2';
-service cloud.firestore {
-  match /databases/{database}/documents {
-    match /{document=**} {
-      allow read, write: if request.auth != null;
-    }
-  }
-}`
-
 ![스크린샷 2022-08-01 오후 11 43 40](https://user-images.githubusercontent.com/56868605/182175848-58689b42-3c91-4170-b1ef-af8197debdab.png)
 
 **?. Authentication의 `Settings` 메뉴에 들어가 `도메인 추가` 클릭 후 밑 사진과 같이 `Github이름.github.io` 입력 후 `추가` 클릭**
