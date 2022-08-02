@@ -173,4 +173,16 @@ scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm r
 
 **?. `https://console.developers.google.com/apis/credentials` 로 접속**
 
-**?. 
+**?. 페이지 좌측 상단의 메뉴에서 Firebase에서 생성한 프로젝트를 선택합니다.**
+
+![스크린샷 2022-08-01 오후 11 50 18](https://user-images.githubusercontent.com/56868605/182289990-7baa63cb-ab4f-44ad-b40a-b9aa46d4d81c.png)
+![스크린샷 2022-08-01 오후 11 49 51](https://user-images.githubusercontent.com/56868605/182290054-bb5f3a1f-64d3-4562-ab84-7cb303c296c1.png)
+![스크린샷 2022-08-01 오후 11 50 45](https://user-images.githubusercontent.com/56868605/182290069-19d6d433-034a-49a0-b250-37cd45ee3d76.png)
+
+**?. Google Cloud의 `API및 서비스` → `사용자 인증 정보` → `Browser key(auto created by Firebase)` 클릭**
+
+![스크린샷 2022-08-01 오후 11 52 03](https://user-images.githubusercontent.com/56868605/182290439-e3af3fb5-993e-4ce9-ae91-15d78e23b8f9.png)
+
+**?. `어플리케이션 제한사항` 은 `HTTP 리퍼러(웹사이트)` , `웹 사이트 제한사항` 은 밑 사진과 같이 설정(.../*)를 꼭 붙여주셔야 하고, `저장` 클릭`**
+
+![스크린샷 2022-08-01 오후 11 58 07](https://user-images.githubusercontent.com/56868605/182290783-ad594fc8-801b-4d95-9392-bb481e4265d6.png)
