@@ -185,4 +185,4 @@ scripts 부분에 **`"deploy": "gh-pages -d build"`** 및 **`"predeploy": "npm r
 
 **41. `어플리케이션 제한사항` 은 `HTTP 리퍼러(웹사이트)` , `웹 사이트 제한사항` 은 밑 사진과 같이 설정(.../*)를 꼭 붙여주셔야 하고, `저장` 클릭`**
 
-![스크린샷 2022-08-01 오후 11 58 07](https://user-images.githubusercontent.com/56868605/182290783-ad594fc8-801b-4d95-9392-bb481e4265d6.png)
+<img width="381" alt="스크린샷 2022-08-02 오후 2 48 42" src="https://user-images.githubusercontent.com/56868605/182301459-509f7bbe-f180-49a6-958a-9b823a87a183.png">
