@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import AppRouter from "components/Router";
 import { authService } from "fbase";
+import styles from "components/App.module.css";
 
 function App() {
   const [init, setInit] = useState(false);
@@ -16,7 +17,13 @@ function App() {
     });
   }, []);
   return (
-    <>{init ? <AppRouter isLoggedIn={isLoggedIn} /> : "Initializing..."}</>
+    <>
+      {init ? (
+        <AppRouter isLoggedIn={isLoggedIn} />
+      ) : (
+        <div className={styles.init}>Initializing...</div>
+      )}
+    </>
   );
 }
 
