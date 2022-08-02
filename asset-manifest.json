@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/fbase-authentication-format/static/css/main.09aea94b.css",
-    "main.js": "/fbase-authentication-format/static/js/main.a0b7f633.js",
+    "main.css": "/fbase-authentication-format/static/css/main.e42aa924.css",
+    "main.js": "/fbase-authentication-format/static/js/main.c0d67d69.js",
     "index.html": "/fbase-authentication-format/index.html",
-    "main.09aea94b.css.map": "/fbase-authentication-format/static/css/main.09aea94b.css.map",
-    "main.a0b7f633.js.map": "/fbase-authentication-format/static/js/main.a0b7f633.js.map"
+    "main.e42aa924.css.map": "/fbase-authentication-format/static/css/main.e42aa924.css.map",
+    "main.c0d67d69.js.map": "/fbase-authentication-format/static/js/main.c0d67d69.js.map"
   },
   "entrypoints": [
-    "static/css/main.09aea94b.css",
-    "static/js/main.a0b7f633.js"
+    "static/css/main.e42aa924.css",
+    "static/js/main.c0d67d69.js"
   ]
 }
