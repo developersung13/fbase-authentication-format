@@ -1,0 +1,97 @@
+.errorMsg {
+  position: absolute;
+  text-align: center;
+  width: 300px;
+  padding: 15px 25px;
+  border: 1px solid rgb(255, 179, 180);
+  border-radius: 5px;
+  background-color: rgb(255, 230, 228);
+}
+
+.errorMsg button {
+  position: absolute;
+  right: 2px;
+  top: 5px;
+  border: none;
+  color: rgb(214, 79, 86);
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.errorMsg button:hover {
+  color: rgb(227, 118, 123);
+}
+
+.errorMsg button i {
+  font-size: 15px;
+}
+
+.whiteSpace {
+  margin-bottom: 85px;
+}
+
+.authInput form {
+  width: 300px;
+  height: 210px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 15px 0;
+  background-color: rgb(245, 246, 249);
+  border: 1px solid rgb(207, 214, 222);
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+.authInput__email__label {
+  margin-bottom: 5px;
+}
+
+.authInput__email {
+  padding-left: 11px;
+  height: 30px;
+  border: 1px solid rgb(207, 214, 222);
+  border-radius: 5px;
+}
+
+.authInput__password__label {
+  margin: 20px 0 5px;
+}
+
+.authInput__password {
+  padding-left: 11px;
+  height: 30px;
+  border: 1px solid rgb(207, 214, 222);
+  border-radius: 5px;
+}
+
+.authSubmit {
+  height: 30px;
+  margin-top: 17px;
+  border: 1px solid rgb(39, 128, 56);
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(41, 151, 62);
+  cursor: pointer;
+  transition: 0.075s ease-in-out;
+}
+
+.authSubmit:hover {
+  background-color: rgb(38, 137, 59);
+}
+
+.auth__toggle {
+  padding: 15px 15px;
+  border: 1px solid rgb(207, 214, 222);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+}
+
+.auth__toggle__text {
+  color: blue;
+  cursor: pointer;
+}
+
+.auth__toggle__text:hover {
+  text-decoration: underline;
+}
