@@ -13,8 +13,9 @@
 }
 
 .iconText {
-  margin-top: 30px;
+  margin: 30px auto 10px;
   font-size: 23px;
+  letter-spacing: -1px;
 }
 
 .authBtns {
